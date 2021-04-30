@@ -1,0 +1,40 @@
+.firstone{
+    /* justify-content: flex-start; */
+    display: flex;
+    /* width: 400px; */
+    
+    justify-content: space-between;
+    border-radius: 40px;
+}
+.secondone{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.images{
+    background-color: white;
+     display: flex;
+     margin-top: 50px;
+     border-radius: 50px;
+}
+.all{
+    background-image:url("backgroundone.jpg");
+}
+.introne{
+    background-color: black;
+    color:white;
+} 
+.imageone{
+    border-style: solid;
+    border-radius: 40px;
+    border-color: black;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:blue;
+}
+.images:hover{
+    transform:scale(2,2);
+}
