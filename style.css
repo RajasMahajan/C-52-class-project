@@ -36,5 +36,5 @@ a:visited{
     color:blue;
 }
 .images:hover{
-    transform:scale(2,2);
+    transform:scale(1.25,1.25);
 }
